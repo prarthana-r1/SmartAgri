@@ -1,1 +1,2 @@
 # SmartAgri
+Agriculture based app
